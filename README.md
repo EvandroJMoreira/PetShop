@@ -1,6 +1,6 @@
 <h1>PetShop</h1>
 
-<p>Proojeto desenvolvido junto ao treinamento da <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</p>
+<p>Projeto desenvolvido junto ao treinamento da <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</p>
 
 <h3>Ferramentas Utilizadas</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html5">
