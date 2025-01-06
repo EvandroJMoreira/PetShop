@@ -8,4 +8,6 @@
 
 <h2>Perspectiva do site</h2>
 <h3>Desktop</h3>
-<img src=
+<img src="https://github.com/EvandroJMoreira/PetShop/blob/main/img/print01.png?raw=true" width=500px>
+<h3>Mobile</h3>
+<img src="https://github.com/EvandroJMoreira/PetShop/blob/main/img/print02.png?raw=true" hight=300px>
